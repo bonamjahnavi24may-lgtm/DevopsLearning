@@ -1,2 +1,3 @@
 test file.
 Add 2nd file
+Add 3rd line to the file
